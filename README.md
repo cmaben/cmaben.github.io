@@ -1,1 +1,1 @@
-This is a site. Hello world.
+I am learning HTML. This site is a reflection of that.
